@@ -1,0 +1,14 @@
+.box {
+  border: 1px solid black;
+  text-align: center;
+  background-color: #90918d;
+  width: 50%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#totalchar {
+  color: rgb(0, 21, 255);
+}
