@@ -1,3 +1,8 @@
+* {
+  font-family: cursive;
+  box-sizing: border-box;
+}
+
 .box {
   border: 1px solid black;
   text-align: center;
@@ -11,4 +16,8 @@
 
 #totalchar {
   color: rgb(0, 21, 255);
+}
+
+#textarea {
+  font-size: medium;
 }
